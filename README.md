@@ -19,4 +19,4 @@
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-FF7AA7?style=flat&logo=telegram&logoColor=000000)](https://t.me/namuriko)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-FF7AA7?style=flat)](https://www.linkedin.com/in/анна-лесникова-4329923b9/)
 
-[![namuriko's GitHub stats](https://github-readme-stats.vercel.app/api?username=namuriko&show_icons=true&theme=rose)](https://github.com/namuriko)
+[![Namuriko's GitHub stats](https://github-readme-stats-extended.vercel.app/api?username=namuriko&theme=rose)](https://github.com/anuraghazra/github-readme-stats)
