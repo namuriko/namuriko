@@ -16,5 +16,5 @@
 ![Confluence](https://img.shields.io/badge/-Confluence-FFDAE6?style=flat&logo=Confluence&logoColor=000000)
 
 ### Follow me
-[![Telegram](https://img.shields.io/badge/-TELEGRAM-111111?style=flat&logo=telegram&logoColor=)](https://t.me/namuriko)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-111111?style=flat&logo=&logoColor=white)](https://www.linkedin.com/in/анна-лесникова-4329923b9/)
+[![Telegram](https://img.shields.io/badge/-TELEGRAM-FF7AA7?style=flat&logo=telegram&logoColor=000000)](https://t.me/namuriko)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-FF7AA7?style=flat)](https://www.linkedin.com/in/анна-лесникова-4329923b9/)
