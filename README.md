@@ -2,7 +2,7 @@
   <img src="assets/7V0.gif" alt="Header GIF">
 </p>
 
-about me 
+## Hello! My name is Anna. I'm beginner QA Engineer.
 
 languages and tools
 
