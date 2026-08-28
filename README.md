@@ -14,3 +14,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-FF7AA7?style=flat&logo=Figma&logoColor=000000)
 ![xCode](https://img.shields.io/badge/-xCode-FFA7C5?style=flat&logo=xCode&logoColor=000000)
 ![Confluence](https://img.shields.io/badge/-Confluence-FFDAE6?style=flat&logo=Confluence&logoColor=000000)
+
+### Follow me
+[![Telegram](https://img.shields.io/badge/-TELEGRAM-111111?style=flat&logo=telegram&logoColor=)](https://t.me/namuriko)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-111111?style=flat&logo=&logoColor=white)](https://www.linkedin.com/in/анна-лесникова-4329923b9/)
