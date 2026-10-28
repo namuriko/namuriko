@@ -32,7 +32,7 @@
 - Checklists 
 - Test-Suites and Test-Cases
 - Bug-Reports
-- SQL Queries
+- [SQL Queries](https://github.com/namuriko/-sql-ex.com)
 - Postman Collections
 
 
