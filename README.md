@@ -1,15 +1,8 @@
 <!-- NAMURIKO | NEON QA PORTFOLIO -->
-
 <p align="center">
-  <img src="assets/portfolio-banner.png" width="100%" alt="Namuriko — Quality Assurance Engineer">
-</p>
-
-<h1 align="center">NAMURIKO</h1>
-
-<h3 align="center">QUALITY ASSURANCE ENGINEER</h3>
-
-<p align="center">
-  <i>Test&nbsp; • &nbsp;Learn&nbsp; • &nbsp;Grow</i> ♡
+  <img src="assets/namuriko_banner.png"
+       width="100%"
+       alt="Namuriko — Quality Assurance Engineer">
 </p>
 
 <p align="center">
@@ -163,5 +156,9 @@ Jira, Git, DevTools.
 </p>
 
 <p align="center">
-  <img src="assets/kitty-pixel.png" width="55" alt="Hello Kitty pixel art">
+  <img
+    src="assets/namuriko_banner_down.png"
+    width="100%"
+    alt="Namuriko kawaii cyberpunk footer"
+  >
 </p>
