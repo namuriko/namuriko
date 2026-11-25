@@ -51,7 +51,6 @@
 
 
 <table>
-<tr>
 <td width="50%" valign="top">
 
 <h3>QA Projects & Skills</h3>
