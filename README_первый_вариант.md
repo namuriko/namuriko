@@ -1,0 +1,43 @@
+<p align="center">
+  <img src="assets/7V0.gif" alt="Header GIF">
+</p>
+
+# Привет! Я Аня 👋
+
+Перешла в QA из сферы продаж технического оборудования — так что уметь докапываться до деталей и понимать, как устроены сложные системы, у меня уже в привычке. 
+
+Сейчас погружена в ручное тестирование и автоматизацию.
+
+**Что уже умею и с чем работаю:**
+* Составляю тест-кейсы и чек-листы
+* Тестирую эндпоинты в Postman и исследую сетевой слой через DevTools
+* Пишу базовые SQL-запросы, чтобы проверять данные напрямую в БД [Посмотреть прогресс](https://github.com/namuriko/sql-queries)
+* Работаю с Jira, Git 
+* Python для автоматизации [Посмотреть прогресс](https://github.com/namuriko/python-learning.git)
+
+Ищу команду, где смогу приносить пользу как Junior QA.
+### Tools
+
+![Postman](https://img.shields.io/badge/-POSTMAN-C70044?style=flat&logo=postman&logoColor=000000)
+![SQL](https://img.shields.io/badge/-SQL-E2004D?style=flat&logo=mySQL&logoColor=000000)
+![GIT](https://img.shields.io/badge/-GIT-FF0258?style=flat&logo=GIT&logoColor=000000)
+![JIRA](https://img.shields.io/badge/-JIRA-FF256F?style=flat&logo=JIRA&logoColor=000000)
+![Devtools](https://img.shields.io/badge/-Devtools-FF4D89?style=flat&logo=googlechrome&logoColor=000000)
+![Figma](https://img.shields.io/badge/-FIGMA-FF7AA7?style=flat&logo=Figma&logoColor=000000)
+![github](https://img.shields.io/badge/-GITHUB-FFDAE6?style=flat&logo=github&logoColor=000000)
+
+### QA Projects & Skills
+- Checklists 
+- Test-Suites and Test-Cases
+- Bug-Reports
+- [SQL Practice & Data Analysis](https://github.com/namuriko/sql-queries)
+- [Python Code](https://github.com/namuriko/python-learning.git)
+- Postman Collections 
+
+
+### Folow me
+[![Telegram](https://img.shields.io/badge/-TELEGRAM-FF7AA7?style=flat&logo=telegram&logoColor=000000)](https://t.me/namuriko)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-FF7AA7?style=flat)](https://www.linkedin.com/in/namuriko/)
+
+[![Namuriko's GitHub stats](https://github-readme-stats-extended.vercel.app/api?username=namuriko&theme=rose)](https://github.com/anuraghazra/github-readme-stats)
+

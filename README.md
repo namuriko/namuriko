@@ -65,30 +65,11 @@
 
 **✓ API Testing (Postman)**
 
-**✓ SQL Practice & Data Analysis**
+[**✓ SQL Practice & Data Analysis**](https://github.com/namuriko/sql-queries)
 
-**✓ Python Fundamentals**
+[**✓ Python Fundamentals**](https://github.com/namuriko/python-learning)
 
-### Featured Projects
 
-**SQL Queries**
-
-Практика SQL-запросов и анализа данных.
-
-<a href="https://github.com/namuriko/sql-queries">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-81465F?style=flat-square&logo=github&logoColor=white">
-</a>
-
-**Python Learning**
-
-Изучение Python и практические задачи.
-
-<a href="https://github.com/namuriko/python-learning">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-81465F?style=flat-square&logo=github&logoColor=white">
-</a>
-
-</td>
-<td width="40%" valign="top">
 
 ## About My Experience
 
@@ -100,11 +81,11 @@ Checklists, test cases, test suites.
 
 Postman, HTTP methods, requests.
 
-**SQL**
+[**SQL**](https://github.com/namuriko/sql-queries)
 
 SELECT, JOIN, GROUP BY, filtering.
 
-**Python**
+[**Python**](https://github.com/namuriko/python-learning)
 
 Основы языка и решение практических задач.
 
