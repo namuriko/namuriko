@@ -49,14 +49,6 @@
 <img src="https://img.shields.io/badge/GitHub-C98DA5?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="60%" valign="top">
-
 ## QA Projects & Skills
 
 **✓ Checklists & Test Cases**
