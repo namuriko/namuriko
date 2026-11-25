@@ -12,7 +12,7 @@
 * Составляю тест-кейсы и чек-листы
 * Тестирую эндпоинты в Postman и исследую сетевой слой через DevTools
 * Пишу базовые SQL-запросы, чтобы проверять данные напрямую в БД
-* Работаю с Jira, Git и смотрю сборки в Xcode
+* Работаю с Jira, Git 
 * Учу Python для автоматизации [Посмотреть прогресс](https://github.com/namuriko/python-learning.git)
 
 Ищу команду, где смогу приносить пользу как Junior QA и дальше расти в автоматизацию.
@@ -30,9 +30,9 @@
 - Checklists 
 - Test-Suites and Test-Cases
 - Bug-Reports
-- [SQL Queries](https://github.com/namuriko/sql-queries)
+- [SQL Practice & Data Analysis](https://github.com/namuriko/sql-queries)
 - [Python learning progress](https://github.com/namuriko/python-learning.git)
-- Postman Collections
+- Postman Collections 
 
 
 ### Folow me
