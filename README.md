@@ -50,56 +50,62 @@
 </p>
 
 
-<table>
-<td width="50%" valign="top">
+<div align="center">
+  <table border="0" cellpadding="12" cellspacing="0">
+    <tr>
+      <td width="350" valign="top">
+        <h2>QA Projects & Skills</h2>
 
-<h3>QA Projects & Skills</h3>
+        ✓ Checklists & Test Cases
 
-<p>✓ Checklists & Test Cases</p>
-<p>✓ Bug Reports</p>
-<p>✓ API Testing (Postman)</p>
-<p>✓ <a href="https://github.com/namuriko/sql-queries">SQL Practice & Data Analysis</a></p>
-<p>✓ <a href="https://github.com/namuriko/python-learning">Python Fundamentals</a></p>
+        <br><br>
+        ✓ Bug Reports
 
-</td>
-<td width="50%" valign="top">
+        <br><br>
+        ✓ API Testing (Postman)
 
-<h3>About My Experience</h3>
+        <br><br>
+        ✓ <a href="https://github.com/namuriko/sql-queries">SQL Practice & Data Analysis</a>
 
-**Manual Testing**
+        <br><br>
+        ✓ <a href="https://github.com/namuriko/python-learning">Python Fundamentals</a>
+      </td>
 
-Checklists, test cases, test suites.
+      <td width="350" valign="top">
+        <h2>About My Experience</h2>
 
-**API Testing**
+        **Manual Testing**
 
-Postman, HTTP methods, requests.
+        <br><br>
+        Checklists, test cases, test suites.
 
-**SQL**
+        <br><br>
+        **API Testing**
 
-SELECT, JOIN, GROUP BY, filtering.
+        <br><br>
+        Postman, HTTP methods, requests.
 
-**Python**
+        <br><br>
+        **SQL**
 
-Основы языка и решение практических задач.
+        <br><br>
+        SELECT, JOIN, GROUP BY, filtering.
 
-**Tools & Analytics**
+        <br><br>
+        **Python**
 
-Jira, Git, DevTools.
+        <br><br>
+        Основы языка и решение практических задач.
 
-</td>
-</tr>
-</table>
+        <br><br>
+        **Tools & Analytics**
 
-
-</td>
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-<td width="50%" valign="middle">
+        <br><br>
+        Jira, Git, DevTools.
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## Let's Connect
 
