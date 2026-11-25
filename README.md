@@ -85,12 +85,6 @@ SELECT, JOIN, GROUP BY, filtering.
 
 Jira, Git, DevTools.
 
-</tr>
-</table>
-
-
-</td>
-</tr>
 </table>
 
 ---
