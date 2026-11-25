@@ -49,21 +49,23 @@
 <img src="https://img.shields.io/badge/GitHub-C98DA5?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
-## QA Projects & Skills
 
-**✓ Checklists & Test Cases**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**✓ Bug Reports**
+<h3>QA Projects & Skills</h3>
 
-**✓ API Testing (Postman)**
+<p>✓ Checklists & Test Cases</p>
+<p>✓ Bug Reports</p>
+<p>✓ API Testing (Postman)</p>
+<p>✓ <a href="https://github.com/namuriko/sql-queries">SQL Practice & Data Analysis</a></p>
+<p>✓ <a href="https://github.com/namuriko/python-learning">Python Fundamentals</a></p>
 
-[**✓ SQL Practice & Data Analysis**](https://github.com/namuriko/sql-queries)
+</td>
+<td width="50%" valign="top">
 
-[**✓ Python Fundamentals**](https://github.com/namuriko/python-learning)
-
-
-
-## About My Experience
+<h3>About My Experience</h3>
 
 **Manual Testing**
 
@@ -73,17 +75,22 @@ Checklists, test cases, test suites.
 
 Postman, HTTP methods, requests.
 
-[**SQL**](https://github.com/namuriko/sql-queries)
+**SQL**
 
 SELECT, JOIN, GROUP BY, filtering.
 
-[**Python**](https://github.com/namuriko/python-learning)
+**Python**
 
 Основы языка и решение практических задач.
 
 **Tools & Analytics**
 
 Jira, Git, DevTools.
+
+</td>
+</tr>
+</table>
+
 
 </td>
 </tr>
@@ -121,17 +128,9 @@ Jira, Git, DevTools.
 </table>
 
 <p align="center">
-  <i>Better software. Happier users.</i>
-</p>
-
-<p align="center">
   Thanks for visiting my profile! ♡
-</p>
-
-<p align="center">
-  <img
-    src="assets/namuriko_banner_down.png"
-    width="100%"
-    alt="Namuriko kawaii cyberpunk footer"
-  >
+  <br>
+  <img src="assets/namuriko_banner_down.png"
+       width="100%"
+       alt="Namuriko kawaii cyberpunk footer">
 </p>
