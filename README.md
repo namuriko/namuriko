@@ -26,7 +26,7 @@
 </td>
 <td width="40%" valign="middle" align="center">
 
-<img src="assets/ava.png" width="180" alt="Anna's profile picture">
+<img src="assets/ava.png" width="220" alt="Anna's profile picture">
 
 </td>
 </tr>
