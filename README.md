@@ -61,7 +61,6 @@
 <p>✓ <a href="https://github.com/namuriko/sql-queries">SQL Practice & Data Analysis</a></p>
 <p>✓ <a href="https://github.com/namuriko/python-learning">Python Fundamentals</a></p>
 
-</td>
 <td width="50%" valign="top">
 
 <h3>About My Experience</h3>
@@ -86,7 +85,6 @@ SELECT, JOIN, GROUP BY, filtering.
 
 Jira, Git, DevTools.
 
-</td>
 </tr>
 </table>
 
