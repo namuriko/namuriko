@@ -89,7 +89,7 @@ Jira, Git, DevTools.
 
 ---
 
-<table>
+<table align="center">
 <tr>
 <td width="50%" valign="middle">
 
