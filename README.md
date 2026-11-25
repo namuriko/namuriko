@@ -1,7 +1,7 @@
-<!-- NAMURIKO | QA PORTFOLIO -->
+<!-- NAMURIKO | NEON QA PORTFOLIO -->
 
 <p align="center">
-  <img src="assets/portfolio-banner.png" width="100%" alt="Namuriko QA Portfolio">
+  <img src="assets/portfolio-banner.png" width="100%" alt="Namuriko — Quality Assurance Engineer">
 </p>
 
 <h1 align="center">NAMURIKO</h1>
@@ -9,10 +9,18 @@
 <h3 align="center">QUALITY ASSURANCE ENGINEER</h3>
 
 <p align="center">
-  <i>Test · Learn · Grow</i> ♡
+  <i>Test&nbsp; • &nbsp;Learn&nbsp; • &nbsp;Grow</i> ♡
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Better_software-Happier_users-81465F?style=flat-square" alt="Better software. Happier users.">
 </p>
 
 ---
+
+<table>
+<tr>
+<td width="60%" valign="middle">
 
 ## Привет! Я Аня 👋
 
@@ -20,66 +28,140 @@
 
 Сейчас погружаюсь в ручное тестирование веб- и мобильных приложений.
 
-**Моя цель** — развиваться в QA, применять аналитическое мышление на практике и постепенно осваивать автоматизацию тестирования.
+Ищу команду, где смогу приносить пользу как Junior QA и постепенно развиваться в автоматизацию.
 
-## Tech Stack
+</td>
+<td width="40%" valign="middle" align="center">
+
+<img src="assets/avatar.png" width="180" alt="Anna's profile picture">
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+## <img src="https://img.shields.io/badge/%3C%2F%3E-81465F?style=flat-square" alt="Code"> Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Postman-81465F?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-  <img src="https://img.shields.io/badge/SQL-81465F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/Git-81465F?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Jira-81465F?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
-  <img src="https://img.shields.io/badge/DevTools-81465F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="DevTools">
-  <img src="https://img.shields.io/badge/Python-81465F?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Figma-81465F?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/GitHub-81465F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/Postman-C98DA5?style=for-the-badge&logo=postman&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-C98DA5?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Git-C98DA5?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Jira-C98DA5?style=for-the-badge&logo=jira&logoColor=white">
+<img src="https://img.shields.io/badge/DevTools-C98DA5?style=for-the-badge&logo=googlechrome&logoColor=white">
+<img src="https://img.shields.io/badge/Python-C98DA5?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-C98DA5?style=for-the-badge&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-C98DA5?style=for-the-badge&logo=github&logoColor=white">
 </p>
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="60%" valign="top">
 
 ## QA Projects & Skills
 
-Практические работы, инструменты и проекты, связанные с тестированием и анализом данных.
+**✓ Checklists & Test Cases**
 
-| Area | Skills & Practice |
-|:---|:---|
-| **Manual Testing** | Checklists, Test Cases, Test Suites |
-| **Bug Reporting** | Bug Reports, Defect Documentation |
-| **API Testing** | Postman, HTTP Methods, API Requests |
-| **Database Testing** | SQL Queries, JOINs, Filtering, Aggregation |
-| **Automation** | Python Fundamentals, Learning Projects |
-| **Tools** | Jira, Git, DevTools |
+**✓ Bug Reports**
+
+**✓ API Testing (Postman)**
+
+**✓ SQL Practice & Data Analysis**
+
+**✓ Python Fundamentals**
 
 ### Featured Projects
 
-**01. SQL Practice & Data Analysis**
+**SQL Queries**
 
-Практика написания SQL-запросов, работа с несколькими таблицами, фильтрация, группировка и анализ данных.
+Практика SQL-запросов и анализа данных.
 
-[<img src="https://img.shields.io/badge/VIEW_PROJECT-81465F?style=flat-square&logo=github&logoColor=white" alt="View SQL Project">](https://github.com/namuriko/sql-queries)
+<a href="https://github.com/namuriko/sql-queries">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-81465F?style=flat-square&logo=github&logoColor=white">
+</a>
 
-**02. Python Learning**
+**Python Learning**
 
-Изучение Python, решение практических задач и освоение основ программирования для дальнейшей автоматизации тестирования.
+Изучение Python и практические задачи.
 
-[<img src="https://img.shields.io/badge/VIEW_PROJECT-81465F?style=flat-square&logo=github&logoColor=white" alt="View Python Project">](https://github.com/namuriko/python-learning)
+<a href="https://github.com/namuriko/python-learning">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-81465F?style=flat-square&logo=github&logoColor=white">
+</a>
+
+</td>
+<td width="40%" valign="top">
+
+## About My Experience
+
+**Manual Testing**
+
+Checklists, test cases, test suites.
+
+**API Testing**
+
+Postman, HTTP methods, requests.
+
+**SQL**
+
+SELECT, JOIN, GROUP BY, filtering.
+
+**Python**
+
+Основы языка и решение практических задач.
+
+**Tools & Analytics**
+
+Jira, Git, DevTools.
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="50%" valign="middle">
 
 ## Let's Connect
 
+<a href="https://t.me/namuriko">
+<img src="https://img.shields.io/badge/Telegram-81465F?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/namuriko/">
+<img src="https://img.shields.io/badge/LinkedIn-81465F?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://github.com/namuriko">
+<img src="https://img.shields.io/badge/GitHub-81465F?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+<td width="50%" valign="middle">
+
+## GitHub Stats
+
+<img src="https://github-readme-stats-extended.vercel.app/api?username=namuriko&show_icons=true&hide_border=true&bg_color=21131F&title_color=E7B7CB&text_color=F6EAF0&icon_color=C98DA5" width="100%" alt="GitHub Statistics">
+
+</td>
+</tr>
+</table>
+
 <p align="center">
-  <a href="https://t.me/namuriko">
-    <img src="https://img.shields.io/badge/Telegram-C98DA5?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  <a href="https://www.linkedin.com/in/namuriko/">
-    <img src="https://img.shields.io/badge/LinkedIn-C98DA5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/namuriko">
-    <img src="https://img.shields.io/badge/GitHub-C98DA5?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
+  <i>Better software. Happier users.</i>
 </p>
 
 <p align="center">
-  <i>Better software. Happier users.</i> ♡
+  Thanks for visiting my profile! ♡
 </p>
 
 <p align="center">
-  <sub>Thanks for visiting my profile! 🎀</sub>
+  <img src="assets/kitty-pixel.png" width="55" alt="Hello Kitty pixel art">
 </p>
